@@ -36,6 +36,6 @@ Active coder with 300 problems solved across leetcode and geeks for geeks and yo
 
 ---
 
-*Check out my pinned repositories below for my latest projects!*
+*Check out my pinned repositories below for my latest projects! 👇* 
 
 
