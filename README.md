@@ -6,8 +6,7 @@ Passionate software developer from Rajahmundry, India, with a knack for frontend
 - 🌱 **Currently learning**: Power BI dashboards, data analytics, AI/ML, and Gen AI.
 - 👯 **Looking to collaborate on**: Data-driven projects or frontend web apps.
 - 💬 **Ask me about**: React, Python, Power BI, or data analytics.
-- 📫 **Reach me at**: [madhavavukkum@gmail.com](mailto:madhavavukkum@gmail.com)
-- ⚡ **Fun fact**: I’ve solved 300 coding problems across LeetCode and GeeksforGeeks!
+
 
 ## 🛠️ Skills
 <p align="center">
