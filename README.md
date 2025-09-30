@@ -1,6 +1,6 @@
 # Hi, I'm Madhava Vukkum! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
-Passionate software developer from Rajahmundry, India, with a knack for frontend development, data analytics, and AI/ML. I thrive on solving complex problems with elegant code and insightful data visualizations.
+Passionate software developer from India, with a knack for frontend development, data analytics, and AI/ML. I thrive on solving complex problems with elegant code and insightful data visualizations.
 
 ## 💫 About Me
 - 🌱 **Currently learning**: Power BI dashboards, data analytics, AI/ML, and Gen AI.
