@@ -14,7 +14,7 @@ Passionate software developer from Rajahmundry, India, with a knack for frontend
 ## 🏆 Coding Profiles and other Social Media
 Active coder with 300 problems solved across leetcode and geeks for geeks and you can also connect on 
 <p align="center">
-   <a href="https://leetcode.com/u/madhavavukkum/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="40" width="50" /></a>a>
+   <a href="https://leetcode.com/u/madhavavukkum/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="40" width="50" /></a>
   <a href="https://www.geeksforgeeks.org/user/madhavap6tsj/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="40" width="50" /></a>
   <a href="https://www.linkedin.com/in/madhavavukkum/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="50" /></a>
   <a href="https://github.com/madhavavukkum" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="40" width="50" /></a>
