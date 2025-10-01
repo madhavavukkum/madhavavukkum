@@ -1,11 +1,5 @@
-# Hi, I'm Madhava Vukkum! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
-
-Passionate software developer from India, with a knack for frontend development, data analytics, and AI/ML. I thrive on solving complex problems with elegant code and insightful data visualizations.
-
-## 💫 About Me
-- 🌱 **Currently learning**: Power BI dashboards, data analytics, AI/ML, and Gen AI.
-- 👯 **Looking to collaborate on**: Data-driven projects or frontend web apps.
-- 💬 **Ask me about**: React, Python, Power BI, or data analytics.
+# Hi, I'm Madhava Vukkum! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) 🇮🇳
+A passionate software developer from India, excelling in frontend dev, data analytics, and AI/ML—solving complex problems with elegant code and insightful visualizations. 🌱 Currently learning Power BI dashboards, data analytics, AI/ML, and Gen AI. 👯 Open to collaborating on data-driven projects or frontend web apps. 💬 Ask me about React, Python, Power BI, or data analytics!
 
 
 ## 🛠️ Skills and Tech Stack
